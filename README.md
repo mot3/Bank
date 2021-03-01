@@ -6,6 +6,10 @@ Well, this project belonged to me some time ago and I said to share it with you.
 
 Here you will find an almost complete bank with the necessary details in Java
 
+Somehow in this project I had to use the [entity framework](./DataLayer/entity) to relieve myself of additional code, and to a very small extent I was able to implement this framework in Java using the different code I found.
+
+> In this project, I used the design of the repository pattern, if I said the name correctly
+
 ## Getting Started
 
 You need to know a little about compiler and jvm, this project uses sqlite for the database,
